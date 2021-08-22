@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-pcorrtest",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Compute a Pearson product-moment correlation test between paired samples.",
   "license": "Apache-2.0",
   "author": {
@@ -15,6 +15,7 @@
   ],
   "main": "./lib",
   "directories": {
+    "benchmark": "./benchmark",
     "doc": "./docs",
     "example": "./examples",
     "lib": "./lib",
