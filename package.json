@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/stats-pcorrtest",
+  "version": "0.0.0",
+  "description": "Compute a Pearson product-moment correlation test between paired samples.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-pcorrtest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "summary",
+    "test",
+    "hypothesis",
+    "association",
+    "linear",
+    "correlation",
+    "paired",
+    "normal",
+    "two-sample",
+    "fisher",
+    "pearson",
+    "moment"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
