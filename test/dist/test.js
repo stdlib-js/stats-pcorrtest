@@ -29,9 +29,9 @@ var pcorrtest = require( './../../dist' );
 
 // FIXTURES //
 
-var twosided = require( './../..xtures/r/twosided.json' );
-var greater = require( './../..xtures/r/greater.json' );
-var less = require( './../..xtures/r/less.json' );
+var twosided = require( './../fixtures/r/twosided.json' );
+var greater = require( './../fixtures/r/greater.json' );
+var less = require( './../fixtures/r/less.json' );
 
 
 // TESTS //
