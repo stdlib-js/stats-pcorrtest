@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var isObject = require( '@stdlib/assert-is-object' );
 var isString = require( '@stdlib/assert-is-string' ).isPrimitive;
 var rnorm = require( '@stdlib/random-base-normal' );
