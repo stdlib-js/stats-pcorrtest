@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@deno/mod.js';
+import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@v0.2.0-deno/mod.js';
 ```
 
 #### pcorrtest( x, y\[, opts] )
@@ -204,7 +204,7 @@ var table = out.print();
 ```javascript
 import rnorm from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-normal@deno/mod.js';
 import sqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@deno/mod.js';
-import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@deno/mod.js';
+import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@v0.2.0-deno/mod.js';
 
 var table;
 var out;
