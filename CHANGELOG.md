@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2025-10-14)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#8213](https://github.com/stdlib-js/stdlib/issues/8213)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`32e2924`](https://github.com/stdlib-js/stdlib/commit/32e2924cea84c650a1bbde85ea6e4143c6e7c3b4) - **chore:** fix JavaScript lint errors [(#8214)](https://github.com/stdlib-js/stdlib/pull/8214) _(by Vara Rahul Rajana, Athan Reines)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`842892d`](https://github.com/stdlib-js/stdlib/commit/842892db70da69098d8fb271ea19ae45c09a8a0e) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`e342a38`](https://github.com/stdlib-js/stdlib/commit/e342a388619ab71f5222105ec94c5029e42a4458) - **refactor:** update paths _(by Gururaj Gurram)_
@@ -27,10 +40,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gururaj Gurram
 -   Philipp Burckhardt
+-   Vara Rahul Rajana
 
 </section>
 
