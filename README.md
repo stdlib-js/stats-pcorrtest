@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-pcorrtest/tags). For example,
+
+```javascript
 import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@v0.2.3-deno/mod.js';
 ```
 
@@ -204,7 +209,7 @@ var table = out.print();
 ```javascript
 import rnorm from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-normal@deno/mod.js';
 import sqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@deno/mod.js';
-import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@v0.2.3-deno/mod.js';
+import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@deno/mod.js';
 
 var table;
 var out;
