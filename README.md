@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-pcorrtest/tags). For example,
+
+```javascript
 import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@v0.2.3-esm/index.mjs';
 ```
 
@@ -209,7 +214,7 @@ var table = out.print();
 
 import rnorm from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-normal@esm/index.mjs';
 import sqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@esm/index.mjs';
-import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@v0.2.3-esm/index.mjs';
+import pcorrtest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-pcorrtest@esm/index.mjs';
 
 var table;
 var out;
